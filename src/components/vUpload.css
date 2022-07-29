@@ -1,0 +1,97 @@
+.excelHeader {
+    color: #111;
+    /* text-align: center; */
+    margin-top: 49px;
+    margin-bottom: 50px;
+    font-size: 60px;
+    line-height: .8666666667;
+    font-weight: 600;
+    letter-spacing: -0.003em;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.submitButton {
+    background: white;
+    color: black;
+    border: none;
+    padding: 4px 7px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.fileContainer {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 94%;
+}
+
+.backgroundContainer {
+    background: black;
+    padding: 54px;
+    margin: auto;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.inputFile {
+    border: 1px solid white;
+    cursor: pointer;
+    color: white;
+    /* padding-right: 12em;
+    margin-right: 2em; */
+}
+
+.submitButton:disabled {
+    cursor: not-allowed;
+}
+
+.disabledLinkClass {
+    pointer-events: none;
+    color: #ccc;
+    cursor: not-allowed;
+}
+
+.checkboxLabel {
+    color: white;
+    padding: 2px;
+}
+
+.fullCheckboxContainer {
+    margin: 37px 0px;
+}
+
+.checkboxContainer {
+    padding: 0 16px;
+}
+
+.fromCheckboxes {
+    cursor: pointer;
+}
+
+
+
+.dropdownText {
+    color: white;
+}
+
+.separator {
+    margin: 2em 11em;
+    color:  white;
+}
+
+.radioButtonLabel {
+    color: white;
+    cursor: pointer;
+}
+
+.radioButton {
+    cursor: pointer;
+}
+
+.vinColumnDropdownContainer {
+    margin-bottom: 40px;
+}
+
+.radioboxContainer {
+    margin-bottom: 15px;
+}
